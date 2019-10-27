@@ -1,0 +1,9 @@
+User-agent: googlebot
+Allow: /$
+Allow: /company-overview$
+Allow: /content-creation-services$
+Allow: /online-marketing-services$
+Allow: /contact-us$
+
+User-agent: *
+Disallow: /
