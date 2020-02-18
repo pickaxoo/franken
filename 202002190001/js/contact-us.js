@@ -1,0 +1,2 @@
+/*! franken-dev 2020-02-19 00:01:05 */
+var _contactUs=_contactUs||{};_contactUs.init=function(){var t={transform:"translate(0)",opacity:"1"};$("#content-inner").children().waypoint({handler:function(){$(this.element).find(".event-target").css(t),this.destroy()},offset:"70%"})};
